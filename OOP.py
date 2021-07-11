@@ -1,4 +1,4 @@
-#python OOP programming
+#python OOP 
 class employee:
 	raise_amount = 1.04 #CLASS VARIABLE; data that is shared among all instances unlike instance variables.
 	no_of_emp = 0 #class variable
